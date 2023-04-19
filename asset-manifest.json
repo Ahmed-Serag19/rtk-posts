@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-posts/static/css/main.4dc00570.css",
+    "main.js": "/rtk-posts/static/js/main.8e89cdec.js",
+    "index.html": "/rtk-posts/index.html",
+    "main.4dc00570.css.map": "/rtk-posts/static/css/main.4dc00570.css.map",
+    "main.8e89cdec.js.map": "/rtk-posts/static/js/main.8e89cdec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc00570.css",
+    "static/js/main.8e89cdec.js"
+  ]
+}
